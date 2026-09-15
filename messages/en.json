@@ -1,0 +1,40 @@
+{
+  "HomePage": {
+    "title": "My Library",
+    "addButton": "Add",
+    "loading": "Searching...",
+    "editButton": "Edit",
+    "deleteButton": "Delete",
+    "saveButton": "Save",
+    "cancelButton": "Cancel",
+    "deleteConfirm": "Delete this item?"
+  },
+  "LoginPage": {
+    "githubButton": "Sign in with GitHub"
+  },
+  "ItemCard": {
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirmDelete": "Are you sure you want to delete this item?",
+    "statusPlanned": "Planned",
+    "statusReading": "Reading",
+    "statusWatching": "Watching",
+    "statusRead": "Completed",
+    "statusWatched": "Completed"
+  },
+  "ItemForm": {
+    "nameplaceholdermovie": "Movie title...",
+    "nameplaceholderbook": "Book title...",
+    "nameplaceholderserial": "TV show title...",
+    "placeholder_movie": "Movie title...",
+    "placeholder_book": "Book title...",
+    "placeholder_serial": "TV show title...",
+    "movie": "Movie",
+    "serial": "TV Show",
+    "book": "Book",
+    "searching": "Searching...",
+    "addButton": "Add"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "siiity",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@auth/prisma-adapter": "^2.11.3",
+    "@prisma/client": "6.12.0",
+    "lucide-react": "^1.46.0",
+    "next": "16.3.4",
+    "next-auth": "^5.0.0-beta.32",
+    "next-intl": "^4.14.4",
+    "pg": "^8.23.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "dotenv": "^17.4.2",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.4",
+    "prisma": "6.12.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5"
+  },
+  "allowScripts": {
+    "unrs-resolver": false,
+    "esbuild@0.28.2": true,
+    "msgpackr-extract@3.0.4": true,
+    "workerd@1.20260704.1": true,
+    "@prisma/client": false,
+    "@prisma/engines": false,
+    "prisma": false,
+    "@parcel/watcher": false,
+    "@swc/core": false
+  }
+}

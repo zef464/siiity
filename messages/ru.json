@@ -1,0 +1,37 @@
+{
+  "HomePage": {
+    "title": "Моя библиотека",
+    "addButton": "Добавить",
+    "loading": "Ищем...",
+    "editButton": "Изменить",
+    "deleteButton": "Удалить",
+    "saveButton": "Сохранить",
+    "cancelButton": "Отмена",
+    "deleteConfirm": "Точно удалить?"
+  },
+  "LoginPage": {
+    "githubButton": "Войти через GitHub"
+  },
+  "ItemCard": {
+    "edit": "Редактировать",
+    "delete": "Удалить",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "confirmDelete": "Вы уверены, что хотите удалить элемент?",
+    "statusPlanned": "Запланировано",
+    "statusReading": "Читаю",
+    "statusWatching": "Смотрю",
+    "statusRead": "Прочитано",
+    "statusWatched": "Завершено"
+  },
+  "ItemForm": {
+    "placeholder_movie": "Название фильма...",
+    "placeholder_book": "Название книги...",
+    "placeholder_serial": "Название сериала...",
+    "movie": "Фильм",
+    "serial": "Сериал",
+    "book": "Книга",
+    "searching": "Поиск...",
+    "addButton": "Добавить"
+  }
+}
